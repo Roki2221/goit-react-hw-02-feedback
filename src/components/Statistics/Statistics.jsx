@@ -3,7 +3,6 @@ import React from 'react';
 const Statistics = props => {
   return (
     <div>
-      <h3>Statistic</h3>
       <p>
         Good: <span>{props.good}</span>
       </p>
